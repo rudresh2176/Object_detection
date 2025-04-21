@@ -1,6 +1,6 @@
-# VoxelNet-tensorflow
+# Object_detection
 
-A tensorflow implementation for [VoxelNet](https://arxiv.org/abs/1711.06396).
+A tensorflow implementation for [Object identification](https://arxiv.org/abs/1711.06396).
 
 ## Requirement
 
